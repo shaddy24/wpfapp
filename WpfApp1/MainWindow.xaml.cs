@@ -61,7 +61,7 @@ namespace WpfApp1
         private void Form1_Loaded(object sender, RoutedEventArgs e)
         {
             disp();
-            MessageBox.Show("Hello Handsom ! Keep it Up!");
+           
         }
 
         private void BtnSave_Click(object sender, RoutedEventArgs e)
